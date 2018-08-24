@@ -11,7 +11,7 @@ class App extends Component {
           <h1 className="App-title">Superheroes!</h1>
         </header>
         <p className="App-intro">
-          A site for fans who are just getting started.
+          A site for new fans.
         </p>
       </div>
     );
